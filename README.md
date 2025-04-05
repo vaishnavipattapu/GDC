@@ -49,8 +49,8 @@ TAPBuddy is an intelligent learning assistant that provides personalized educati
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/tapbuddy.git
-cd tapbuddy
+git clone https://github.com/vaishnavipattapu/GDC.git
+cd GDC
 ```
 
 2. Install backend dependencies:
@@ -149,4 +149,4 @@ For support, please open an issue in the GitHub repository or contact the mainta
 - [ ] WebSocket for real-time updates
 - [ ] GraphQL API
 - [ ] Microservices architecture
-- [ ] Containerization with Docker 
+- [ ] Containerization with Docker
